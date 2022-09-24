@@ -1,0 +1,16 @@
+Git é um sistema de controle de versões.
+GitHub Desktop simplifica seu fluxo de trabalho de desenvolvimento
+GitHub é uma plataforma de hospedagem de código para controle de versão e colaboração.
+Várias pessoas podem trabalhar no mesmo repositório de qualquer lugar do mundo.
+Repositório é onde são organizados os arquivos do projeto.
+Quando salva o código em um repositório permite que você faça backup do código e compartilhar com outros devs.
+
+
+
+Instalar Git, o GitHub Desktop, 
+Criar uma conta no GitHub
+Criar um repositório, de preferência "público" para outras pessoas verem.(útil colocar também a opção de README, essa opção já cria um arquivo inicial que pode ser usado para anotações, dicas...)
+Fazer sincronização do do repositório no GitHub com o dispositivo local.
+Sempre fazer commit para salvar o progresso.
+Ter uma pasta já preparada para o projeto no dispositivo local para facilitar o projeto.
+Começar a desenvolver os códigos com a liguagem de programação que julgar adequada.
