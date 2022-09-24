@@ -1,0 +1,22 @@
+Comandos de Git
+
+cd = usado para entrar em um repositório
+cd .. = usado para voltar ao nível anterior
+Ctrl + l = limpar o terminal
+ls = listar
+commit = altera/salva os aqrquivos no repositório local
+mkdir = criar
+add = adiciona 
+init = cria um novo repositório
+status = mostra o estado atual do repositório
+branch = cria ou exclui branches
+clone = clona um repositório
+pull = puxa informações do repositório remoto para o local
+push = envia informações do repositório local para o remoto
+rm = remove um arquivo
+tab = completa a palavra
+chave SSH = Estabelecer uma coneção segura
+SHA1 = Dados criptografados com 40 dígitos e é único como nossa digital.
+tree = árvore
+branches = ramificação da árvore
+blobs = armazena o conteúdo de cada arquivo
